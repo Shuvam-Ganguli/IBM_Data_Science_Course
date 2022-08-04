@@ -1,2 +1,2 @@
-# Demo-IBM
-Demo repo for IBM Data Science Course
+# IBM_Repo
+Repo for storing content from IBM Data Science Course
